@@ -1,0 +1,9 @@
+WARNING - 00:10:25: First conversion pass
+WARNING - 00:10:26: Second pass : generating package usages
+WARNING - 00:10:26: Saving uml file /resource/Klient/src/Klient.uml
+WARNING - 00:10:26: Uml file /resource/Klient/src/Klient.uml saved
+WARNING - 00:51:11: Convert 
+WARNING - 00:51:11: First conversion pass
+WARNING - 00:51:11: Second pass : generating package usages
+WARNING - 00:51:11: Saving uml file /resource/Serwer/src/Serwer.uml
+WARNING - 00:51:11: Uml file /resource/Serwer/src/Serwer.uml saved
